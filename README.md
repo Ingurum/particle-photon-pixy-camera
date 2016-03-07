@@ -15,6 +15,8 @@ Using the particle.io IDE at http://build/particle.io
 
 search for this library, "Use This Example"
 
+WEIRD BUG. MAKE SURE YOU CHANGE THE FILE SLIGHTLY AND SAVE IT BEFORE IT WILL COMPILE. (I add a blank line)
+
 flash to your Photon one of the two examples in the example folder.
 
 a01-pixy-d7.ino
