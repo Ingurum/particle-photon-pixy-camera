@@ -24,7 +24,7 @@
 #ifndef PIXY_H
 #define PIXY_H
 
-#include "Pixy/TPixy.h"
+#include "Pixycam5/TPixy.h"
 ///#include "SPI.h"
 
 
