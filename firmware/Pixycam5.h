@@ -1,5 +1,5 @@
 
-// Pixy.h
+// Pixycam5.h
 // begin license header
 //
 // This file is part of Pixy CMUcam5 or "Pixy" for short
