@@ -1,7 +1,7 @@
 {
 	"name": "Pixy",
 	"author": "Jeremy Ellis",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"license": "GNU General Public License 3+",
 	"description": "Beginner startup programs to use the pixy camera with the Particle.io Photon"
 }
