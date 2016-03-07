@@ -8,8 +8,8 @@
 
 
 ///      #include "SPI.h"        // got rid of this since it would not compile
-#include "Pixy.h"
-#include "TPixy.h"
+#include "Pixy/Pixy.h"
+#include "Pixy/TPixy.h"
 
 Pixy pixy;                          // Create our pixy object
 
