@@ -19,4 +19,4 @@ flash to your Photon
 
 Hook up Pixy as per diagram (Cable that comes with the Pixy)
 
-
+![pixy-serial-spark-core.png]
